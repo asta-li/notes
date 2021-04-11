@@ -1,0 +1,10 @@
+.env
+.setup
+*.wav
+*.m4a
+
+# MacOS
+.DS_Storegit
+
+# Python
+__pycache__/
