@@ -18,4 +18,6 @@ python notes.py --file $FILE_PATH
 ```
 
 ## Exit the conda environment
+```
 conda deactivate
+```

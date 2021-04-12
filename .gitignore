@@ -4,7 +4,7 @@
 *.m4a
 
 # MacOS
-.DS_Storegit
+.DS_Store
 
 # Python
-__pycache__/
+__pycache__
